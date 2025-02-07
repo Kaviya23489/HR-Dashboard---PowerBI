@@ -12,5 +12,6 @@ This **HR Dashboard** in Power BI provides an interactive and insightful analysi
 ##  Files Included
 - **HR_Dashboard.pbix** – Power BI file with the interactive dashboard.
 - **HR_Dataset.xlsx** – Sample HR data for demonstration.
+- **HR_Dashboard.pdf** - Dashboard Pdf.
 
 
